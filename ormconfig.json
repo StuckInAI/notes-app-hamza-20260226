@@ -1,0 +1,7 @@
+{
+  "type": "sqlite",
+  "database": "./notes.db",
+  "entities": ["src/lib/database.ts"],
+  "synchronize": true,
+  "logging": false
+}
