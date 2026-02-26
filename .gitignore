@@ -1,0 +1,5 @@
+/node_modules
+/.next
+/notes.db
+.env.local
+*.log
